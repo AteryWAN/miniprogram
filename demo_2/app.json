@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/join/join",
+    "pages/wxml/index"
+    ],
+    "window": {
+     "backgroundTextStyle": "ligtht",
+     "navigationBarBackgroundColor": "#fff",
+     "navigationBarTitleText": "MiniProgram",
+     "navigationBarTextStyle": "black"
+    }
+}

@@ -1,0 +1,5 @@
+<view>header from header.wxml</view>
+
+<template name="head">
+<view>head template</view>
+</template>

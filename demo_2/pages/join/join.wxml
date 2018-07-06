@@ -1,0 +1,5 @@
+<!--pages/join/join.wxml-->
+<text>pages/join/join.wxml</text>
+<template name="join">
+<text>\njoin = template</text>
+</template>
